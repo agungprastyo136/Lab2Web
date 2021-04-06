@@ -79,4 +79,4 @@ Berikan penjelasan dan contohnya!
 
 ![Tambahan3](https://user-images.githubusercontent.com/56245855/113691439-9c19f480-96f6-11eb-8a36-8934c54978d1.PNG)
 
-4. Semua akan menjadi satu, tetapi class mampu memanggil sekaligus atau berkali-kali pada halaman,sedangkan id  tidak bisa memanggil satu persatu.
+4. Semua akan menjadi satu, tetapi class mampu memanggil sekaligus atau berkali-kali pada halaman,sedangkan ID  tidak bisa memanggil satu persatu.
